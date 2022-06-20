@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b33046d6.css",
+    "main.js": "/portfolio/static/js/main.58816fea.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/hero_round.jpg": "/portfolio/static/media/hero_round.b19b4a3380ef3ee6f942.jpg",
+    "static/media/space_1.jpg": "/portfolio/static/media/space_1.b459152bfcc08fc19009.jpg",
+    "static/media/gameEngine.jpg": "/portfolio/static/media/gameEngine.9f0364fb777b6e9c3ca0.jpg",
+    "static/media/sudoku.jpg": "/portfolio/static/media/sudoku.c1727fc394a05872f896.jpg",
+    "static/media/mongodb-original-wordmark.svg": "/portfolio/static/media/mongodb-original-wordmark.37c254895b58a4072247e428fc867bbe.svg",
+    "static/media/maven-logo-black-on-white.png": "/portfolio/static/media/maven-logo-black-on-white.8795215afe5366428910.png",
+    "static/media/postgresql-original.svg": "/portfolio/static/media/postgresql-original.7bc394e86ea1f692d59a3d484ad156af.svg",
+    "static/media/java-original.svg": "/portfolio/static/media/java-original.a751bad6c81431ab4dd6fa6632a65540.svg",
+    "static/media/logo-elastic-vertical-reverse.svg": "/portfolio/static/media/logo-elastic-vertical-reverse.c1903c5573304c6ddd1a271e83f3181c.svg",
+    "static/media/spring-original.svg": "/portfolio/static/media/spring-original.556e13d3d09ea5a5d874d2dfa1908d4a.svg",
+    "static/media/git-original.svg": "/portfolio/static/media/git-original.c08353563539c6459b353f29d8dd7bf2.svg",
+    "index.html": "/portfolio/index.html",
+    "main.b33046d6.css.map": "/portfolio/static/css/main.b33046d6.css.map",
+    "main.58816fea.js.map": "/portfolio/static/js/main.58816fea.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b33046d6.css",
+    "static/js/main.58816fea.js"
+  ]
+}
